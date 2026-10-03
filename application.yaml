@@ -3,8 +3,8 @@ spring:
         name: equiprent
     datasource:
         url: jdbc:posthresql://localhost:5432/equiprent
-        username:equiprent
-        password:equiprent
+        username: equiprent
+        password: equiprent
     jpa:
         hibernate:
             ddl-auto: update
