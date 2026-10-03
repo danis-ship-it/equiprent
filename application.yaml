@@ -2,7 +2,7 @@ spring:
     application:
         name: equiprent
     datasource:
-        url: jdbc:posthresql://localhost:5432/equiprent
+        url: jdbc:postgresql://localhost:5432/equiprent
         username: equiprent
         password: equiprent
     jpa:
